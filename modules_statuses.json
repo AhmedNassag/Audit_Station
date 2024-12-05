@@ -1,0 +1,22 @@
+{
+    "Company": true,
+    "Instructor": true,
+    "Accountant": true,
+    "Role": true,
+    "Auth": true,
+    "AboutUs": true,
+    "Blog": true,
+    "Category": true,
+    "ContactUs": true,
+    "TermsAndConditions": true,
+    "PrivacyPolicy": true,
+    "Section": true,
+    "OurTeam": true,
+    "Comment": true,
+    "Course": false,
+    "Employee": true,
+    "Faqs": true,
+    "Service": true,
+    "Step": true,
+    "Setting": true
+}

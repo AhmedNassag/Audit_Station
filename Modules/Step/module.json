@@ -1,0 +1,11 @@
+{
+    "name": "Step",
+    "alias": "step",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Step\\Providers\\StepServiceProvider"
+    ],
+    "files": []
+}
